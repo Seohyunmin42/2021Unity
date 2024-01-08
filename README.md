@@ -13,4 +13,4 @@ Unity 엔진을 활용하여 제작되었으며 3D게임으로 포트폴리오 �
 
 ## 영상 및 기술서
 - 동영상 : https://www.youtube.com/watch?v=ttGIsrLrLVw
-- 기술서 : http://naver.me/xFo75aW6
+- 기술서 : http://naver.me/xpWy5LL9
