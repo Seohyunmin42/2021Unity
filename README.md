@@ -11,6 +11,6 @@ Unity 엔진을 활용하여 제작되었으며 3D게임으로 포트폴리오 �
 - 개발언어 : C#
 
 
-## 영상 및 기술서
+## 영상 및 PPT
 - 동영상 : https://www.youtube.com/watch?v=ttGIsrLrLVw
-- 기술서 : http://naver.me/xpWy5LL9
+- PPT : http://naver.me/GSHExvmB
